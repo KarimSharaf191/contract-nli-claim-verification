@@ -1,0 +1,68 @@
+============================================================
+ContractNLI zero-shot evaluation
+============================================================
+Timestamp   : 2026-06-06 17:17:50
+Model       : qwen/qwen3-8b
+Mode        : cot_think
+Split       : dev
+Limit       : 20
+Max chars   : None
+Scored      : 20 instances
+Errored     : 0 (excluded from metrics)
+
+------------------------------------------------------------
+Overall metrics
+------------------------------------------------------------
+Balanced accuracy : 0.9167
+Macro F1          : 0.7024
+  F1 [Entailment   ]: 0.8571
+  F1 [Contradiction]: 0.5000
+  F1 [NotMentioned ]: 0.7500
+
+Full classification report:
+               precision    recall  f1-score   support
+
+   Entailment       1.00      0.75      0.86        16
+Contradiction       0.33      1.00      0.50         1
+ NotMentioned       0.60      1.00      0.75         3
+
+     accuracy                           0.80        20
+    macro avg       0.64      0.92      0.70        20
+ weighted avg       0.91      0.80      0.82        20
+
+------------------------------------------------------------
+Per-hypothesis balanced accuracy
+------------------------------------------------------------
+    nda-1 | n=  1 | bal_acc=1.000
+    nda-2 | n=  1 | bal_acc=1.000
+    nda-3 | n=  1 | bal_acc=1.000
+    nda-4 | n=  1 | bal_acc=1.000
+    nda-5 | n=  1 | bal_acc=1.000
+    nda-7 | n=  1 | bal_acc=0.000
+    nda-8 | n=  1 | bal_acc=1.000
+   nda-10 | n=  1 | bal_acc=1.000
+   nda-11 | n=  2 | bal_acc=1.000
+   nda-12 | n=  1 | bal_acc=1.000
+   nda-13 | n=  1 | bal_acc=0.000
+   nda-15 | n=  2 | bal_acc=0.500
+   nda-16 | n=  2 | bal_acc=1.000
+   nda-17 | n=  1 | bal_acc=1.000
+   nda-18 | n=  1 | bal_acc=1.000
+   nda-19 | n=  1 | bal_acc=1.000
+   nda-20 | n=  1 | bal_acc=0.000
+
+------------------------------------------------------------
+Efficiency (tokens per instance, averaged over scored)
+------------------------------------------------------------
+  Avg prompt tokens     : 2954.6
+  Avg completion tokens : 595.4
+  Avg reasoning tokens  : 472.7
+  Avg total tokens      : 3549.9
+  Avg <think> tokens    : 0.0
+  Instances with <think>: 0/20
+
+  Total prompt tokens     : 59092
+  Total completion tokens : 11907
+  Total reasoning tokens  : 9454
+  Total <think> tokens    : 0
+  Total tokens (all calls): 70999

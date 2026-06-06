@@ -1,0 +1,82 @@
+[
+  {
+    "true": "Entailment",
+    "pred": "Entailment"
+  },
+  {
+    "true": "Entailment",
+    "pred": "Entailment"
+  },
+  {
+    "true": "Entailment",
+    "pred": "Entailment"
+  },
+  {
+    "true": "Entailment",
+    "pred": "Entailment"
+  },
+  {
+    "true": "Contradiction",
+    "pred": "NotMentioned"
+  },
+  {
+    "true": "Entailment",
+    "pred": "Entailment"
+  },
+  {
+    "true": "Entailment",
+    "pred": "Entailment"
+  },
+  {
+    "true": "Entailment",
+    "pred": "Entailment"
+  },
+  {
+    "true": "Entailment",
+    "pred": "Entailment"
+  },
+  {
+    "true": "Entailment",
+    "pred": "Entailment"
+  },
+  {
+    "true": "NotMentioned",
+    "pred": "NotMentioned"
+  },
+  {
+    "true": "Entailment",
+    "pred": "Contradiction"
+  },
+  {
+    "true": "Entailment",
+    "pred": "Entailment"
+  },
+  {
+    "true": "NotMentioned",
+    "pred": "NotMentioned"
+  },
+  {
+    "true": "Entailment",
+    "pred": "NotMentioned"
+  },
+  {
+    "true": "Entailment",
+    "pred": "NotMentioned"
+  },
+  {
+    "true": "Entailment",
+    "pred": "Entailment"
+  },
+  {
+    "true": "NotMentioned",
+    "pred": "Entailment"
+  },
+  {
+    "true": "Entailment",
+    "pred": "Entailment"
+  },
+  {
+    "true": "Entailment",
+    "pred": "NotMentioned"
+  }
+]

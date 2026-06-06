@@ -1,0 +1,65 @@
+============================================================
+ContractNLI zero-shot evaluation
+============================================================
+Timestamp   : 2026-06-01 17:01:34
+Model       : qwen/qwen3-8b
+Mode        : cot
+Split       : dev
+Limit       : 20
+Max chars   : None
+Scored      : 20 instances
+Errored     : 0 (excluded from metrics)
+
+------------------------------------------------------------
+Overall metrics
+------------------------------------------------------------
+Balanced accuracy : 0.9167
+Macro F1          : 0.7302
+  F1 [Entailment   ]: 0.8571
+  F1 [Contradiction]: 0.6667
+  F1 [NotMentioned ]: 0.6667
+
+Full classification report:
+               precision    recall  f1-score   support
+
+   Entailment       1.00      0.75      0.86        16
+Contradiction       0.50      1.00      0.67         1
+ NotMentioned       0.50      1.00      0.67         3
+
+     accuracy                           0.80        20
+    macro avg       0.67      0.92      0.73        20
+ weighted avg       0.90      0.80      0.82        20
+
+------------------------------------------------------------
+Per-hypothesis balanced accuracy
+------------------------------------------------------------
+    nda-1 | n=  1 | bal_acc=0.000
+    nda-2 | n=  1 | bal_acc=1.000
+    nda-3 | n=  1 | bal_acc=1.000
+    nda-4 | n=  1 | bal_acc=1.000
+    nda-5 | n=  1 | bal_acc=0.000
+    nda-7 | n=  1 | bal_acc=0.000
+    nda-8 | n=  1 | bal_acc=1.000
+   nda-10 | n=  1 | bal_acc=1.000
+   nda-11 | n=  2 | bal_acc=1.000
+   nda-12 | n=  1 | bal_acc=1.000
+   nda-13 | n=  1 | bal_acc=0.000
+   nda-15 | n=  2 | bal_acc=1.000
+   nda-16 | n=  2 | bal_acc=1.000
+   nda-17 | n=  1 | bal_acc=1.000
+   nda-18 | n=  1 | bal_acc=1.000
+   nda-19 | n=  1 | bal_acc=1.000
+   nda-20 | n=  1 | bal_acc=1.000
+
+------------------------------------------------------------
+Efficiency (tokens per instance, averaged over scored)
+------------------------------------------------------------
+  Avg prompt tokens     : 2958.6
+  Avg completion tokens : 130.8
+  Avg reasoning tokens  : 0.0
+  Avg total tokens      : 3089.4
+
+  Total prompt tokens     : 59172
+  Total completion tokens : 2616
+  Total reasoning tokens  : 0
+  Total tokens (all calls): 61788

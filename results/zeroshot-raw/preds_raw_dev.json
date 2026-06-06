@@ -1,0 +1,222 @@
+[
+  {
+    "true": "Entailment",
+    "pred": "Entailment",
+    "usage": {
+      "prompt": 2256,
+      "completion": 3,
+      "reasoning": 0,
+      "total": 2259,
+      "think_tokens": 0
+    }
+  },
+  {
+    "true": "Entailment",
+    "pred": "Entailment",
+    "usage": {
+      "prompt": 2254,
+      "completion": 3,
+      "reasoning": 0,
+      "total": 2257,
+      "think_tokens": 0
+    }
+  },
+  {
+    "true": "Entailment",
+    "pred": "Entailment",
+    "usage": {
+      "prompt": 2252,
+      "completion": 3,
+      "reasoning": 0,
+      "total": 2255,
+      "think_tokens": 0
+    }
+  },
+  {
+    "true": "Entailment",
+    "pred": "Entailment",
+    "usage": {
+      "prompt": 2253,
+      "completion": 3,
+      "reasoning": 0,
+      "total": 2256,
+      "think_tokens": 0
+    }
+  },
+  {
+    "true": "Contradiction",
+    "pred": "NotMentioned",
+    "usage": {
+      "prompt": 2247,
+      "completion": 4,
+      "reasoning": 0,
+      "total": 2251,
+      "think_tokens": 0
+    }
+  },
+  {
+    "true": "Entailment",
+    "pred": "Entailment",
+    "usage": {
+      "prompt": 2251,
+      "completion": 3,
+      "reasoning": 0,
+      "total": 2254,
+      "think_tokens": 0
+    }
+  },
+  {
+    "true": "Entailment",
+    "pred": "Entailment",
+    "usage": {
+      "prompt": 2248,
+      "completion": 3,
+      "reasoning": 0,
+      "total": 2251,
+      "think_tokens": 0
+    }
+  },
+  {
+    "true": "Entailment",
+    "pred": "Entailment",
+    "usage": {
+      "prompt": 2250,
+      "completion": 3,
+      "reasoning": 0,
+      "total": 2253,
+      "think_tokens": 0
+    }
+  },
+  {
+    "true": "Entailment",
+    "pred": "Entailment",
+    "usage": {
+      "prompt": 2256,
+      "completion": 3,
+      "reasoning": 0,
+      "total": 2259,
+      "think_tokens": 0
+    }
+  },
+  {
+    "true": "Entailment",
+    "pred": "Entailment",
+    "usage": {
+      "prompt": 2247,
+      "completion": 3,
+      "reasoning": 0,
+      "total": 2250,
+      "think_tokens": 0
+    }
+  },
+  {
+    "true": "NotMentioned",
+    "pred": "NotMentioned",
+    "usage": {
+      "prompt": 2252,
+      "completion": 4,
+      "reasoning": 0,
+      "total": 2256,
+      "think_tokens": 0
+    }
+  },
+  {
+    "true": "Entailment",
+    "pred": "Contradiction",
+    "usage": {
+      "prompt": 2260,
+      "completion": 3,
+      "reasoning": 0,
+      "total": 2263,
+      "think_tokens": 0
+    }
+  },
+  {
+    "true": "Entailment",
+    "pred": "Entailment",
+    "usage": {
+      "prompt": 2253,
+      "completion": 3,
+      "reasoning": 0,
+      "total": 2256,
+      "think_tokens": 0
+    }
+  },
+  {
+    "true": "NotMentioned",
+    "pred": "NotMentioned",
+    "usage": {
+      "prompt": 2266,
+      "completion": 4,
+      "reasoning": 0,
+      "total": 2270,
+      "think_tokens": 0
+    }
+  },
+  {
+    "true": "Entailment",
+    "pred": "NotMentioned",
+    "usage": {
+      "prompt": 2253,
+      "completion": 4,
+      "reasoning": 0,
+      "total": 2257,
+      "think_tokens": 0
+    }
+  },
+  {
+    "true": "Entailment",
+    "pred": "NotMentioned",
+    "usage": {
+      "prompt": 2255,
+      "completion": 4,
+      "reasoning": 0,
+      "total": 2259,
+      "think_tokens": 0
+    }
+  },
+  {
+    "true": "Entailment",
+    "pred": "Entailment",
+    "usage": {
+      "prompt": 2258,
+      "completion": 3,
+      "reasoning": 0,
+      "total": 2261,
+      "think_tokens": 0
+    }
+  },
+  {
+    "true": "NotMentioned",
+    "pred": "Entailment",
+    "usage": {
+      "prompt": 6049,
+      "completion": 3,
+      "reasoning": 0,
+      "total": 6052,
+      "think_tokens": 0
+    }
+  },
+  {
+    "true": "Entailment",
+    "pred": "Entailment",
+    "usage": {
+      "prompt": 6047,
+      "completion": 3,
+      "reasoning": 0,
+      "total": 6050,
+      "think_tokens": 0
+    }
+  },
+  {
+    "true": "Entailment",
+    "pred": "NotMentioned",
+    "usage": {
+      "prompt": 6045,
+      "completion": 4,
+      "reasoning": 0,
+      "total": 6049,
+      "think_tokens": 0
+    }
+  }
+]

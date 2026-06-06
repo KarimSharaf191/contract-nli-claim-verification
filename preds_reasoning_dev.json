@@ -1,0 +1,222 @@
+[
+  {
+    "true": "Entailment",
+    "pred": "Entailment",
+    "usage": {
+      "prompt": 2361,
+      "completion": 307,
+      "reasoning": 288,
+      "total": 2668,
+      "think_tokens": 0
+    }
+  },
+  {
+    "true": "Entailment",
+    "pred": "Entailment",
+    "usage": {
+      "prompt": 2359,
+      "completion": 620,
+      "reasoning": 601,
+      "total": 2979,
+      "think_tokens": 0
+    }
+  },
+  {
+    "true": "Entailment",
+    "pred": "Contradiction",
+    "usage": {
+      "prompt": 2357,
+      "completion": 394,
+      "reasoning": 375,
+      "total": 2751,
+      "think_tokens": 0
+    }
+  },
+  {
+    "true": "Entailment",
+    "pred": "Entailment",
+    "usage": {
+      "prompt": 2358,
+      "completion": 432,
+      "reasoning": 413,
+      "total": 2790,
+      "think_tokens": 0
+    }
+  },
+  {
+    "true": "Contradiction",
+    "pred": "Contradiction",
+    "usage": {
+      "prompt": 2352,
+      "completion": 239,
+      "reasoning": 220,
+      "total": 2591,
+      "think_tokens": 0
+    }
+  },
+  {
+    "true": "Entailment",
+    "pred": "Entailment",
+    "usage": {
+      "prompt": 2356,
+      "completion": 1378,
+      "reasoning": 1359,
+      "total": 3734,
+      "think_tokens": 0
+    }
+  },
+  {
+    "true": "Entailment",
+    "pred": "Entailment",
+    "usage": {
+      "prompt": 2353,
+      "completion": 230,
+      "reasoning": 211,
+      "total": 2583,
+      "think_tokens": 0
+    }
+  },
+  {
+    "true": "Entailment",
+    "pred": "Entailment",
+    "usage": {
+      "prompt": 2355,
+      "completion": 290,
+      "reasoning": 271,
+      "total": 2645,
+      "think_tokens": 0
+    }
+  },
+  {
+    "true": "Entailment",
+    "pred": "Entailment",
+    "usage": {
+      "prompt": 2361,
+      "completion": 282,
+      "reasoning": 263,
+      "total": 2643,
+      "think_tokens": 0
+    }
+  },
+  {
+    "true": "Entailment",
+    "pred": "Entailment",
+    "usage": {
+      "prompt": 2352,
+      "completion": 268,
+      "reasoning": 249,
+      "total": 2620,
+      "think_tokens": 0
+    }
+  },
+  {
+    "true": "NotMentioned",
+    "pred": "NotMentioned",
+    "usage": {
+      "prompt": 2357,
+      "completion": 276,
+      "reasoning": 256,
+      "total": 2633,
+      "think_tokens": 0
+    }
+  },
+  {
+    "true": "Entailment",
+    "pred": "Contradiction",
+    "usage": {
+      "prompt": 2365,
+      "completion": 369,
+      "reasoning": 350,
+      "total": 2734,
+      "think_tokens": 0
+    }
+  },
+  {
+    "true": "Entailment",
+    "pred": "Entailment",
+    "usage": {
+      "prompt": 2358,
+      "completion": 334,
+      "reasoning": 315,
+      "total": 2692,
+      "think_tokens": 0
+    }
+  },
+  {
+    "true": "NotMentioned",
+    "pred": "NotMentioned",
+    "usage": {
+      "prompt": 2371,
+      "completion": 517,
+      "reasoning": 497,
+      "total": 2888,
+      "think_tokens": 0
+    }
+  },
+  {
+    "true": "Entailment",
+    "pred": "NotMentioned",
+    "usage": {
+      "prompt": 2358,
+      "completion": 1212,
+      "reasoning": 1192,
+      "total": 3570,
+      "think_tokens": 0
+    }
+  },
+  {
+    "true": "Entailment",
+    "pred": "Entailment",
+    "usage": {
+      "prompt": 2360,
+      "completion": 678,
+      "reasoning": 659,
+      "total": 3038,
+      "think_tokens": 0
+    }
+  },
+  {
+    "true": "Entailment",
+    "pred": "Entailment",
+    "usage": {
+      "prompt": 2363,
+      "completion": 347,
+      "reasoning": 328,
+      "total": 2710,
+      "think_tokens": 0
+    }
+  },
+  {
+    "true": "NotMentioned",
+    "pred": "NotMentioned",
+    "usage": {
+      "prompt": 6154,
+      "completion": 433,
+      "reasoning": 413,
+      "total": 6587,
+      "think_tokens": 0
+    }
+  },
+  {
+    "true": "Entailment",
+    "pred": "Entailment",
+    "usage": {
+      "prompt": 6152,
+      "completion": 634,
+      "reasoning": 615,
+      "total": 6786,
+      "think_tokens": 0
+    }
+  },
+  {
+    "true": "Entailment",
+    "pred": "Contradiction",
+    "usage": {
+      "prompt": 6150,
+      "completion": 982,
+      "reasoning": 963,
+      "total": 7132,
+      "think_tokens": 0
+    }
+  }
+]
